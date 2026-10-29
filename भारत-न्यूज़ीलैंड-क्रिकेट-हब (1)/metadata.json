@@ -1,0 +1,6 @@
+{
+  "name": "HindiTech Guide – टेक गाइड और भारत बनाम न्यूज़ीलैंड क्रिकेट अपडेट",
+  "description": "सरल हिंदी में टेक्नोलॉजी गाइड और भारत बनाम न्यूज़ीलैंड क्रिकेट सीरीज का पूरा शेड्यूल, सत्यापित स्कोरकार्ड, मैच परिणाम, प्लेइंग इलेवन और विस्तृत हिंदी विश्लेषण।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

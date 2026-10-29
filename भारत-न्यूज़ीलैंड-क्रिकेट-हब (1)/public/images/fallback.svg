@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" fill="none">
+  <defs>
+    <linearGradient id="bg_fb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1C1917"/>
+      <stop offset="100%" stop-color="#292524"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg_fb)"/>
+  <circle cx="300" cy="190" r="50" stroke="#D97706" stroke-width="3" stroke-dasharray="6 6"/>
+  <path d="M285 175 L315 175 L315 205 L285 205 Z" fill="#D97706" opacity="0.4"/>
+  <text x="300" y="275" fill="#F5F5F4" font-family="system-ui, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Smart Gadget &amp; Cricket Hindi</text>
+  <text x="300" y="300" fill="#A8A29E" font-family="system-ui, sans-serif" font-size="12" text-anchor="middle">सत्यापित इमेज और तकनीकी विवरण</text>
+</svg>

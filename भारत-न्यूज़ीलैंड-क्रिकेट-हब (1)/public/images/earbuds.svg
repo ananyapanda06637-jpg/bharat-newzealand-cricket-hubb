@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" fill="none">
+  <defs>
+    <linearGradient id="bg_buds" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="case_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg_buds)"/>
+  <!-- Open Charging Case Base -->
+  <ellipse cx="300" cy="270" rx="140" ry="80" fill="url(#case_grad)" stroke="#475569" stroke-width="3"/>
+  <ellipse cx="300" cy="260" rx="120" ry="60" fill="#020617"/>
+  <!-- Left Earbud Pocket -->
+  <ellipse cx="250" cy="255" rx="36" ry="24" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <circle cx="250" cy="245" r="22" fill="#1E293B" stroke="#60A5FA" stroke-width="2"/>
+  <!-- Right Earbud Pocket -->
+  <ellipse cx="350" cy="255" rx="36" ry="24" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <circle cx="350" cy="245" r="22" fill="#1E293B" stroke="#60A5FA" stroke-width="2"/>
+  <!-- Case Open Lid -->
+  <path d="M180 230 C 180 120, 420 120, 420 230 Z" fill="#1E293B" stroke="#475569" stroke-width="3" opacity="0.9"/>
+  <!-- Status LEDs -->
+  <circle cx="290" cy="315" r="3" fill="#22C55E"/>
+  <circle cx="300" cy="315" r="3" fill="#22C55E"/>
+  <circle cx="310" cy="315" r="3" fill="#22C55E"/>
+  <!-- Vector Tag -->
+  <rect x="20" y="20" width="130" height="26" rx="6" fill="#1E293B"/>
+  <text x="85" y="37" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">ईयरबड्स इलस्ट्रेशन</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" fill="none">
+  <defs>
+    <linearGradient id="bg_phone" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="screen_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg_phone)"/>
+  <!-- Phone Body Outline -->
+  <rect x="220" y="45" width="160" height="360" rx="28" fill="#1E293B" stroke="#475569" stroke-width="4"/>
+  <!-- Screen Bezel -->
+  <rect x="228" y="55" width="144" height="340" rx="20" fill="url(#screen_grad)"/>
+  <!-- Punch Hole Camera -->
+  <circle cx="300" cy="72" r="4.5" fill="#020617"/>
+  <!-- UI Mockup on screen -->
+  <rect x="245" y="110" width="110" height="40" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <rect x="245" y="165" width="110" height="60" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <rect x="245" y="240" width="50" height="50" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <rect x="305" y="240" width="50" height="50" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <text x="300" y="340" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">5G PRO</text>
+  <!-- Vector Tag -->
+  <rect x="20" y="20" width="130" height="26" rx="6" fill="#1E293B"/>
+  <text x="85" y="37" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">स्मार्टफोन इलस्ट्रेशन</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" fill="none">
+  <defs>
+    <linearGradient id="bg_lap" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg_lap)"/>
+  <!-- Laptop Screen Lid -->
+  <rect x="140" y="70" width="320" height="210" rx="12" fill="#1E293B" stroke="#475569" stroke-width="3"/>
+  <rect x="155" y="85" width="290" height="180" rx="6" fill="#020617"/>
+  <!-- Code on Screen -->
+  <circle cx="170" cy="98" r="3" fill="#EF4444"/>
+  <circle cx="180" cy="98" r="3" fill="#F59E0B"/>
+  <circle cx="190" cy="98" r="3" fill="#10B981"/>
+  <rect x="170" y="115" width="120" height="6" rx="3" fill="#38BDF8"/>
+  <rect x="170" y="130" width="180" height="6" rx="3" fill="#94A3B8"/>
+  <rect x="170" y="145" width="150" height="6" rx="3" fill="#818CF8"/>
+  <rect x="170" y="160" width="200" height="6" rx="3" fill="#34D399"/>
+  <!-- Laptop Base Keyboard Deck -->
+  <path d="M100 280 L500 280 L520 330 L80 330 Z" fill="#334155" stroke="#475569" stroke-width="2"/>
+  <rect x="240" y="310" width="120" height="15" rx="3" fill="#1E293B"/>
+  <!-- Vector Tag -->
+  <rect x="20" y="20" width="130" height="26" rx="6" fill="#1E293B"/>
+  <text x="85" y="37" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" text-anchor="middle">लैपटॉप इलस्ट्रेशन</text>
+</svg>
